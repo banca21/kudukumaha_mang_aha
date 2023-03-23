@@ -1,0 +1,22 @@
+{
+  "name": "gledati-indigo-kristal-2023-ceo-film-online-sa-prevodom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "(Gledati)",
+    "Indigo",
+    "kristal",
+    "2023",
+    "Ceo",
+    "Film",
+    "ONLINE",
+    "sa",
+    "Prevodom"
+  ],
+  "author": "herdy",
+  "license": "ISC"
+}
